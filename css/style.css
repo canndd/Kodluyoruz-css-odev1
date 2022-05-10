@@ -1,31 +1,37 @@
+/********** SAYFAYA GÖRE ORTALA  *************/  
 .center {
     text-align: center;
 }
-
+/********** MADDE NOKTALARINISAYFAYA ORTALA *************/  
 #ulfirst{
     list-style-position: inside;
 }
+/********** TÜM H1 ETİKETLERİNİ RENGİ KIRMIZI YAP *************/  
 
 h1{
     color: red;
 }
+/********** TÜM H2 ETİKETLERİNİ RENGİ KIRMIZI YAP *************/  
 
 h2 {
     color: purple;
 }
+/********** TÜM H3 ETİKETLERİNİ RENGİ KIRMIZI YAP *************/  
 
 
 h3 {
     color: #FFBD35;
 }
 
+/********** YÜKSEKLİK 250PX GENİŞLİK 300PX YAP  *************/  
+
 .imgone {
-    height: 160px;
-    height: 300px;
+    height: 250px;
+    width:   300px;
 }
-#articleimg {
-    text-align: center;
-}
+
+/********** SIRALAMA MADDELERİNİ SAĞA DOĞRU 300 PX YAP  *************/  
+
 
 .sıralama {
     margin-right: 300px;
