@@ -6,14 +6,27 @@
     list-style-position: inside;
 }
 
-#h1first{
+h1{
     color: red;
 }
 
-#h2first {
+h2 {
     color: purple;
 }
 
-#h3first {
+
+h3 {
     color: #FFBD35;
+}
+
+.imgone {
+    height: 150px;
+    height: 300px;
+}
+#articleimg {
+    text-align: center;
+}
+
+.sıralama {
+    margin-right: 300px;
 }
