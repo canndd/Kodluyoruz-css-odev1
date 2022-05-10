@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+#ulfirst{
+    list-style-position: inside;
+}
+
+#h1first{
+    color: red;
+}
+
+#h2first {
+    color: purple;
+}
+
+#h3first {
+    color: #FFBD35;
+}
